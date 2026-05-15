@@ -99,7 +99,7 @@ copy running-config startup-config
 
 The no shutdown command was required because router interfaces are disabled by default.
 
-![Router CLI Commands](CLI commands for the router.png)
+![image alt](https://github.com/itz-kTx/packet-tracer-switch-router-network/blob/273ae8f2a3d53c9608c961230d00d7751802756b/images/cli-commands-for-the-router.png)
 
 
 ## 7.Swtich Configuration
