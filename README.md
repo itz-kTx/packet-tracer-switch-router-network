@@ -62,7 +62,7 @@ The ping failed because the router had not been configured yet. Without configur
 
 This showed that physical connections alone are not enough. The router must have valid IP addresses on its interfaces, and those interfaces must be enabled.
 
-![Unsuccessful Ping Between PCA and PCB](unscuccessful ping between PCA and PCB.png)
+![image alt](https://github.com/itz-kTx/packet-tracer-switch-router-network/blob/e9bbe8fc3dfa432b7633096ce207af3c8d98e3eb/images/unsuccessful-ping-between-pca-and-pcb.png)
 
 
 ## 6.Router Configuration
