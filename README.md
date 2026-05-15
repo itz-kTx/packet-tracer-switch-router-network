@@ -133,7 +133,7 @@ copy running-config startup-config
 
 The switch default gateway was set to 192.168.1.1, which is the R1 interface on the same network as the switch management VLAN.
 
-![Switch Configuration](Configuration of the Switch .png)
+![image alt](https://github.com/itz-kTx/packet-tracer-switch-router-network/blob/422e8f59cfd76e2beb72bc39cd9efb96ec54df82/images/configuration-of-the-switch.png)
 
 ## 8.Succesfull Connectivity Test
 
