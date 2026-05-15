@@ -146,7 +146,7 @@ The first ping attempt lost packets, but the second attempt succeeded. This can 
 
 The successful ping confirmed that traffic could route between the two networks through R1.
 
-![Successful Ping Between PCA and PCB](succesful ping between PCA and PCB.png)
+![image alt](https://github.com/itz-kTx/packet-tracer-switch-router-network/blob/f7a6e25d74d24ed2104c85aa4386ab35811e2050/images/successful-ping-between-pca-and-pcb.png)
 
 ## 9. RSA Key Generation and SSH Preparation
 
