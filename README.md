@@ -27,7 +27,7 @@ The lab started with four unconnected devices:
 
 At this point, no devices were connected and no IP addressing or routing configuration had been completed.
 
-![Initial Setup](images/initial-set-up.png)
+![Initial Setup](images/initial set up.png)
 
 ---
 
