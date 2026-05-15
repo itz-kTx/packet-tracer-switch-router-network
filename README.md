@@ -63,6 +63,8 @@ The ping failed because the router had not been configured yet. Without configur
 
 This showed that physical connections alone are not enough. The router must have valid IP addresses on its interfaces, and those interfaces must be enabled.
 
+![Unsuccessful Ping Between PCA and PCB](unscuccessful ping between PCA and PCB.png)
+
 
 ## 6.Router Configuration
 
@@ -98,6 +100,8 @@ copy running-config startup-config
 
 The no shutdown command was required because router interfaces are disabled by default.
 
+![Router CLI Commands](CLI commands for the router.png)
+
 
 ## 7.Swtich Configuration
 
@@ -130,6 +134,8 @@ copy running-config startup-config
 
 The switch default gateway was set to 192.168.1.1, which is the R1 interface on the same network as the switch management VLAN.
 
+![Switch Configuration](Configuration of the Switch .png)
+
 ## 8.Succesfull Connectivity Test
 
 After configuring the router, switch, and PC addressing, I tested connectivity again from PCA to PCB:
@@ -140,6 +146,8 @@ After configuring the router, switch, and PC addressing, I tested connectivity a
 The first ping attempt lost packets, but the second attempt succeeded. This can happen because ARP needs to resolve MAC addresses before communication fully succeeds.
 
 The successful ping confirmed that traffic could route between the two networks through R1.
+
+![Successful Ping Between PCA and PCB](succesful ping between PCA and PCB.png)
 
 ## 9. RSA Key Generation and SSH Preparation
 
@@ -162,6 +170,8 @@ The VTY lines were configured to use local login and allow SSH:
 - transport input ssh
 
 This step is security-relevant because SSH provides encrypted remote management access, unlike Telnet, which sends traffic in plaintext.
+
+![RSA Key Generation](generate RSA key encryption 1024 length.png)
 
 ## 10.Troubleshooting Notes
 
