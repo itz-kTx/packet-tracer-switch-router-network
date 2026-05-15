@@ -170,7 +170,7 @@ The VTY lines were configured to use local login and allow SSH:
 
 This step is security-relevant because SSH provides encrypted remote management access, unlike Telnet, which sends traffic in plaintext.
 
-![RSA Key Generation](generate RSA key encryption 1024 length.png)
+![image alt](https://github.com/itz-kTx/packet-tracer-switch-router-network/blob/d5a432693cd50c38def17ff465021e3584e829cd/images/generate-rsa-key-generation-1024.png)
 
 ## 10.Troubleshooting Notes
 
