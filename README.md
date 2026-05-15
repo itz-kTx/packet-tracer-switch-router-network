@@ -27,7 +27,7 @@ The lab started with four unconnected devices:
 
 At this point, no devices were connected and no IP addressing or routing configuration had been completed.
 
-[![image alt](images/initial set up.png)](https://github.com/itz-kTx/packet-tracer-switch-router-network/blob/43b01e62d7da14eb34d01f5dd6c9fecbf0fb16a7/images/initial%20set%20up.png)
+[![Initial Setup](images/initial set up.png)](https://github.com/itz-kTx/packet-tracer-switch-router-network/blob/43b01e62d7da14eb34d01f5dd6c9fecbf0fb16a7/images/initial%20set%20up.png)
 
 ---
 
